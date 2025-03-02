@@ -59,19 +59,7 @@ body {
     font-weight: 900;
     font-style: italic;
     color: var(--color-white);
-    position: fixed;       
-    width: 10px;
-    top: 18%;    
-    left: 50px;
-    /*height: 10px; */
-}
-
-.fotcentro {
-    position: fixed;    
-    left: 54%;
-    height: 50%; 
-    width: 50%;
-}
+  }
 
 .section-title {
     font-family: "Inter", serif;
