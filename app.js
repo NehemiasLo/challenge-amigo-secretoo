@@ -69,7 +69,7 @@ function sortearAmigo() {
     setTimeout(() => {
         alert('Fin del sorteo. La pagina se refrescara para un nuevo juego'); // Se muestra un mensaje de alerta
         location.reload(); // Se recarga la página
-    }, 100);
+    }, 500);
 }
 
 
